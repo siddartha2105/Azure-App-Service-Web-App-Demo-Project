@@ -1,5 +1,5 @@
 """
-This script runs the FlaskTemplate application using a development server.
+The script runs the FlaskTemplate application using a development server.
 """
 
 from os import environ
